@@ -1,0 +1,25 @@
+package com.kita.first.level2.practice;
+
+public class practice02 {
+	public static void main(String[] args) {
+		for(int i=0; i<5; i++) {
+			System.out.println("*****");
+		}
+		
+			
+			for(int i=0; i<5; i++) {
+				for(int z=0; z<5; z++) {
+					System.out.print("*");
+					
+				}
+				System.out.println();
+			}
+				
+			}
+			
+		}
+	
+
+
+
+
