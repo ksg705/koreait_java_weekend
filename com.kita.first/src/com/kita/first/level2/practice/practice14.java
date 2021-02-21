@@ -1,7 +1,7 @@
 package com.kita.first.level2.practice;
 
 public class practice14 {
-	public static void main(String args) {
+	public static void main(String[] args) {
 		//성정 배열
 		int[][] arr = {
 				{67, 49, 87}, //국어성적

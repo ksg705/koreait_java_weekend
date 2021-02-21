@@ -3,7 +3,7 @@ package com.kita.first.level2.practice;
 import java.util.Arrays;
 
 public class practice13 {
-	public static void main(String args) {
+	public static void main(String[] args) {
 		int[][] arr = new int[5][3];
 		// { {1, 2, 3}, {4, 5, 6}, ... , {13, 14, 15} }
 		int l = 1;
